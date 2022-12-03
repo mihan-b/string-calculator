@@ -149,6 +149,7 @@ int simpleParse(const char *exp){
 };
 
 int main() {
+    //Test cases
     char exp1[] = "1 + 1";
     char exp2[] = "3 + 7 - 4 * 1";
     char exp3[] = "9 * 13 / 2 + 18 * 110 - 812 % 97 + 3";
